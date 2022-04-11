@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blogs</string>
+    <string name="app_welcoming_word">Zungvi blog est une plateforme saine vous permettant d\'explorer des articles de vos choix.</string>
+    <string name="app_signup">Vous n\'avez pas encore de compte? S\'inscrire</string>
+    <string name="next">SUIVANT</string>
+    <string name="help">Help</string>
+    <string name="find_your_account">Connectez vous à votre compte</string>
+    <string name="country_code">+243</string>
+</resources>
